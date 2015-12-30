@@ -1,0 +1,23 @@
+{
+  "name": "jajax",
+  "version": "1.0.0",
+  "description": "JQuery Ajax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test is not implemented."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbukum/jajax.git"
+  },
+  "keywords": [
+    "jquery",
+    "ajax"
+  ],
+  "author": "kamilbukum@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kbukum/jajax/issues"
+  },
+  "homepage": "https://github.com/kbukum/jajax#readme"
+}
