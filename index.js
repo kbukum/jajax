@@ -6,4 +6,4 @@
  */
 
 
-module.exports = require('jajax.min')
+module.exports = require('./jajax.min')
