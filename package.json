@@ -2,7 +2,7 @@
   "name": "jajax",
   "version": "1.0.0",
   "description": "exported ajax library from jquery",
-  "main": "./lib/index",
+  "main": "./index",
   "scripts": {
     "test": "test"
   },
