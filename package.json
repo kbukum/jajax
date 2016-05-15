@@ -1,20 +1,20 @@
 {
   "name": "jajax",
-  "version": "1.0.2",
-  "description": "JQuery Ajax",
-  "main": "index.js",
+  "version": "1.0.0",
+  "description": "exported ajax library from jquery",
+  "main": "./lib/index",
   "scripts": {
-    "test": "echo test is not implemented."
+    "test": "test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kbukum/jajax.git"
   },
   "keywords": [
-    "jquery",
-    "ajax"
+    "ajax",
+    "jquery"
   ],
-  "author": "kamilbukum@gmail.com",
+  "author": "Gol D. Roger <kamilbukum@gmail.com> (http://www.oopdev.org)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kbukum/jajax/issues"
